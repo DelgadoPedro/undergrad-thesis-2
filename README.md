@@ -1,4 +1,4 @@
-# Architecturally Significant Guidelines for Monitoring in MLOps Systems
+# Supplementary Material
 
 This repository hosts the supplementary material for the undergraduate thesis **"Architecturally Significant Guidelines for Monitoring in MLOps Systems"**, developed at the Institute of Mathematics and Computer Sciences (ICMC), University of São Paulo (USP). It replicates the method of Amou Najafabadi et al. (2026), *Architecturally Significant MLOps Guidelines for ML Model Integration and Deployment: a Gray Literature Review* ([arXiv:2606.06535](https://arxiv.org/abs/2606.06535)), with the scope changed from model integration and deployment to monitoring.
 
