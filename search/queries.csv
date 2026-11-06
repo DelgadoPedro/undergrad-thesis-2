@@ -1,0 +1,925 @@
+query_id,version,phase_term,practice_term,query,url_page1,url_page2,html_page1,html_page2,organic_results
+Q01A,MLOps,Monitoring,Practice,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Monitoring+Practice,https://www.google.com/search?q=MLOps+Architect+Monitoring+Practice&start=10,html/q01a_p1.html,html/q01a_p2.html,18
+Q01B,Machine Learning,Monitoring,Practice,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Monitoring+Practice,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Monitoring+Practice&start=10,html/q01b_p1.html,html/q01b_p2.html,19
+Q02A,MLOps,Monitoring,Guideline,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Monitoring+Guideline,https://www.google.com/search?q=MLOps+Architect+Monitoring+Guideline&start=10,html/q02a_p1.html,html/q02a_p2.html,18
+Q02B,Machine Learning,Monitoring,Guideline,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Monitoring+Guideline,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Monitoring+Guideline&start=10,html/q02b_p1.html,html/q02b_p2.html,19
+Q03A,MLOps,Monitoring,Tactic,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Monitoring+Tactic,https://www.google.com/search?q=MLOps+Architect+Monitoring+Tactic&start=10,html/q03a_p1.html,html/q03a_p2.html,18
+Q03B,Machine Learning,Monitoring,Tactic,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Monitoring+Tactic,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Monitoring+Tactic&start=10,html/q03b_p1.html,html/q03b_p2.html,19
+Q04A,MLOps,Monitoring,Strategy,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Monitoring+Strategy,https://www.google.com/search?q=MLOps+Architect+Monitoring+Strategy&start=10,html/q04a_p1.html,html/q04a_p2.html,18
+Q04B,Machine Learning,Monitoring,Strategy,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Monitoring+Strategy,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Monitoring+Strategy&start=10,html/q04b_p1.html,html/q04b_p2.html,19
+Q05A,MLOps,Monitoring,Recommendation,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Monitoring+Recommendation,https://www.google.com/search?q=MLOps+Architect+Monitoring+Recommendation&start=10,html/q05a_p1.html,html/q05a_p2.html,18
+Q05B,Machine Learning,Monitoring,Recommendation,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Monitoring+Recommendation,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Monitoring+Recommendation&start=10,html/q05b_p1.html,html/q05b_p2.html,19
+Q06A,MLOps,Monitoring,Pattern,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Monitoring+Pattern,https://www.google.com/search?q=MLOps+Architect+Monitoring+Pattern&start=10,html/q06a_p1.html,html/q06a_p2.html,17
+Q06B,Machine Learning,Monitoring,Pattern,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Monitoring+Pattern,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Monitoring+Pattern&start=10,html/q06b_p1.html,html/q06b_p2.html,18
+Q07A,MLOps,Monitoring,Best Practice,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Monitoring+%22Best+Practice%22,https://www.google.com/search?q=MLOps+Architect+Monitoring+%22Best+Practice%22&start=10,html/q07a_p1.html,html/q07a_p2.html,19
+Q07B,Machine Learning,Monitoring,Best Practice,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Monitoring+%22Best+Practice%22,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Monitoring+%22Best+Practice%22&start=10,html/q07b_p1.html,html/q07b_p2.html,19
+Q08A,MLOps,Monitoring,Antipattern,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Monitoring+Antipattern,https://www.google.com/search?q=MLOps+Architect+Monitoring+Antipattern&start=10,html/q08a_p1.html,html/q08a_p2.html,18
+Q08B,Machine Learning,Monitoring,Antipattern,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Monitoring+Antipattern,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Monitoring+Antipattern&start=10,html/q08b_p1.html,html/q08b_p2.html,19
+Q09A,MLOps,Monitoring,Smell,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Monitoring+Smell,https://www.google.com/search?q=MLOps+Architect+Monitoring+Smell&start=10,html/q09a_p1.html,html/q09a_p2.html,19
+Q09B,Machine Learning,Monitoring,Smell,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Monitoring+Smell,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Monitoring+Smell&start=10,html/q09b_p1.html,html/q09b_p2.html,19
+Q10A,MLOps,Monitoring,Technical Debt,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Monitoring+%22Technical+Debt%22,https://www.google.com/search?q=MLOps+Architect+Monitoring+%22Technical+Debt%22&start=10,html/q10a_p1.html,html/q10a_p2.html,19
+Q10B,Machine Learning,Monitoring,Technical Debt,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Monitoring+%22Technical+Debt%22,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Monitoring+%22Technical+Debt%22&start=10,html/q10b_p1.html,html/q10b_p2.html,19
+Q11A,MLOps,Monitoring,Pitfall,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Monitoring+Pitfall,https://www.google.com/search?q=MLOps+Architect+Monitoring+Pitfall&start=10,html/q11a_p1.html,html/q11a_p2.html,18
+Q11B,Machine Learning,Monitoring,Pitfall,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Monitoring+Pitfall,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Monitoring+Pitfall&start=10,html/q11b_p1.html,html/q11b_p2.html,19
+Q12A,MLOps,Observability,Practice,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Observability+Practice,https://www.google.com/search?q=MLOps+Architect+Observability+Practice&start=10,html/q12a_p1.html,html/q12a_p2.html,19
+Q12B,Machine Learning,Observability,Practice,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Observability+Practice,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Observability+Practice&start=10,html/q12b_p1.html,html/q12b_p2.html,19
+Q13A,MLOps,Observability,Guideline,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Observability+Guideline,https://www.google.com/search?q=MLOps+Architect+Observability+Guideline&start=10,html/q13a_p1.html,html/q13a_p2.html,19
+Q13B,Machine Learning,Observability,Guideline,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Observability+Guideline,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Observability+Guideline&start=10,html/q13b_p1.html,html/q13b_p2.html,19
+Q14A,MLOps,Observability,Tactic,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Observability+Tactic,https://www.google.com/search?q=MLOps+Architect+Observability+Tactic&start=10,html/q14a_p1.html,html/q14a_p2.html,18
+Q14B,Machine Learning,Observability,Tactic,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Observability+Tactic,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Observability+Tactic&start=10,html/q14b_p1.html,html/q14b_p2.html,18
+Q15A,MLOps,Observability,Strategy,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Observability+Strategy,https://www.google.com/search?q=MLOps+Architect+Observability+Strategy&start=10,html/q15a_p1.html,html/q15a_p2.html,18
+Q15B,Machine Learning,Observability,Strategy,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Observability+Strategy,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Observability+Strategy&start=10,html/q15b_p1.html,html/q15b_p2.html,19
+Q16A,MLOps,Observability,Recommendation,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Observability+Recommendation,https://www.google.com/search?q=MLOps+Architect+Observability+Recommendation&start=10,html/q16a_p1.html,html/q16a_p2.html,19
+Q16B,Machine Learning,Observability,Recommendation,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Observability+Recommendation,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Observability+Recommendation&start=10,html/q16b_p1.html,html/q16b_p2.html,19
+Q17A,MLOps,Observability,Pattern,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Observability+Pattern,https://www.google.com/search?q=MLOps+Architect+Observability+Pattern&start=10,html/q17a_p1.html,html/q17a_p2.html,18
+Q17B,Machine Learning,Observability,Pattern,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Observability+Pattern,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Observability+Pattern&start=10,html/q17b_p1.html,html/q17b_p2.html,18
+Q18A,MLOps,Observability,Best Practice,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Observability+%22Best+Practice%22,https://www.google.com/search?q=MLOps+Architect+Observability+%22Best+Practice%22&start=10,html/q18a_p1.html,html/q18a_p2.html,19
+Q18B,Machine Learning,Observability,Best Practice,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Observability+%22Best+Practice%22,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Observability+%22Best+Practice%22&start=10,html/q18b_p1.html,html/q18b_p2.html,19
+Q19A,MLOps,Observability,Antipattern,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Observability+Antipattern,https://www.google.com/search?q=MLOps+Architect+Observability+Antipattern&start=10,html/q19a_p1.html,html/q19a_p2.html,18
+Q19B,Machine Learning,Observability,Antipattern,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Observability+Antipattern,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Observability+Antipattern&start=10,html/q19b_p1.html,html/q19b_p2.html,19
+Q20A,MLOps,Observability,Smell,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Observability+Smell,https://www.google.com/search?q=MLOps+Architect+Observability+Smell&start=10,html/q20a_p1.html,html/q20a_p2.html,18
+Q20B,Machine Learning,Observability,Smell,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Observability+Smell,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Observability+Smell&start=10,html/q20b_p1.html,html/q20b_p2.html,19
+Q21A,MLOps,Observability,Technical Debt,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Observability+%22Technical+Debt%22,https://www.google.com/search?q=MLOps+Architect+Observability+%22Technical+Debt%22&start=10,html/q21a_p1.html,html/q21a_p2.html,18
+Q21B,Machine Learning,Observability,Technical Debt,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Observability+%22Technical+Debt%22,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Observability+%22Technical+Debt%22&start=10,html/q21b_p1.html,html/q21b_p2.html,19
+Q22A,MLOps,Observability,Pitfall,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Observability+Pitfall,https://www.google.com/search?q=MLOps+Architect+Observability+Pitfall&start=10,html/q22a_p1.html,html/q22a_p2.html,18
+Q22B,Machine Learning,Observability,Pitfall,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Observability+Pitfall,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Observability+Pitfall&start=10,html/q22b_p1.html,html/q22b_p2.html,19
+Q23A,MLOps,Drift,Practice,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Drift+Practice,https://www.google.com/search?q=MLOps+Architect+Drift+Practice&start=10,html/q23a_p1.html,html/q23a_p2.html,18
+Q23B,Machine Learning,Drift,Practice,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Drift+Practice,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Drift+Practice&start=10,html/q23b_p1.html,html/q23b_p2.html,18
+Q24A,MLOps,Drift,Guideline,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Drift+Guideline,https://www.google.com/search?q=MLOps+Architect+Drift+Guideline&start=10,html/q24a_p1.html,html/q24a_p2.html,19
+Q24B,Machine Learning,Drift,Guideline,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Drift+Guideline,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Drift+Guideline&start=10,html/q24b_p1.html,html/q24b_p2.html,19
+Q25A,MLOps,Drift,Tactic,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Drift+Tactic,https://www.google.com/search?q=MLOps+Architect+Drift+Tactic&start=10,html/q25a_p1.html,html/q25a_p2.html,18
+Q25B,Machine Learning,Drift,Tactic,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Drift+Tactic,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Drift+Tactic&start=10,html/q25b_p1.html,html/q25b_p2.html,19
+Q26A,MLOps,Drift,Strategy,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Drift+Strategy,https://www.google.com/search?q=MLOps+Architect+Drift+Strategy&start=10,html/q26a_p1.html,html/q26a_p2.html,18
+Q26B,Machine Learning,Drift,Strategy,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Drift+Strategy,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Drift+Strategy&start=10,html/q26b_p1.html,html/q26b_p2.html,19
+Q27A,MLOps,Drift,Recommendation,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Drift+Recommendation,https://www.google.com/search?q=MLOps+Architect+Drift+Recommendation&start=10,html/q27a_p1.html,html/q27a_p2.html,18
+Q27B,Machine Learning,Drift,Recommendation,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Drift+Recommendation,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Drift+Recommendation&start=10,html/q27b_p1.html,html/q27b_p2.html,18
+Q28A,MLOps,Drift,Pattern,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Drift+Pattern,https://www.google.com/search?q=MLOps+Architect+Drift+Pattern&start=10,html/q28a_p1.html,html/q28a_p2.html,17
+Q28B,Machine Learning,Drift,Pattern,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Drift+Pattern,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Drift+Pattern&start=10,html/q28b_p1.html,html/q28b_p2.html,18
+Q29A,MLOps,Drift,Best Practice,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Drift+%22Best+Practice%22,https://www.google.com/search?q=MLOps+Architect+Drift+%22Best+Practice%22&start=10,html/q29a_p1.html,html/q29a_p2.html,19
+Q29B,Machine Learning,Drift,Best Practice,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Drift+%22Best+Practice%22,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Drift+%22Best+Practice%22&start=10,html/q29b_p1.html,html/q29b_p2.html,19
+Q30A,MLOps,Drift,Antipattern,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Drift+Antipattern,https://www.google.com/search?q=MLOps+Architect+Drift+Antipattern&start=10,html/q30a_p1.html,html/q30a_p2.html,18
+Q30B,Machine Learning,Drift,Antipattern,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Drift+Antipattern,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Drift+Antipattern&start=10,html/q30b_p1.html,html/q30b_p2.html,19
+Q31A,MLOps,Drift,Smell,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Drift+Smell,https://www.google.com/search?q=MLOps+Architect+Drift+Smell&start=10,html/q31a_p1.html,html/q31a_p2.html,19
+Q31B,Machine Learning,Drift,Smell,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Drift+Smell,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Drift+Smell&start=10,html/q31b_p1.html,html/q31b_p2.html,19
+Q32A,MLOps,Drift,Technical Debt,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Drift+%22Technical+Debt%22,https://www.google.com/search?q=MLOps+Architect+Drift+%22Technical+Debt%22&start=10,html/q32a_p1.html,html/q32a_p2.html,18
+Q32B,Machine Learning,Drift,Technical Debt,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Drift+%22Technical+Debt%22,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Drift+%22Technical+Debt%22&start=10,html/q32b_p1.html,html/q32b_p2.html,19
+Q33A,MLOps,Drift,Pitfall,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=MLOps+Architect+Drift+Pitfall,https://www.google.com/search?q=MLOps+Architect+Drift+Pitfall&start=10,html/q33a_p1.html,html/q33a_p2.html,18
+Q33B,Machine Learning,Drift,Pitfall,"<bound method DataFrame.query of    query_id           variant       phase  ... saved_p1 saved_p2 note
+0      Q01A             MLOps  Monitoring  ...      NaN      NaN  NaN
+1      Q01B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+2      Q02A             MLOps  Monitoring  ...      NaN      NaN  NaN
+3      Q02B  Machine Learning  Monitoring  ...      NaN      NaN  NaN
+4      Q03A             MLOps  Monitoring  ...      NaN      NaN  NaN
+..      ...               ...         ...  ...      ...      ...  ...
+61     Q31B  Machine Learning       Drift  ...      NaN      NaN  NaN
+62     Q32A             MLOps       Drift  ...      NaN      NaN  NaN
+63     Q32B  Machine Learning       Drift  ...      NaN      NaN  NaN
+64     Q33A             MLOps       Drift  ...      NaN      NaN  NaN
+65     Q33B  Machine Learning       Drift  ...      NaN      NaN  NaN
+
+[66 rows x 12 columns]>",https://www.google.com/search?q=%22Machine+Learning%22+Architect+Drift+Pitfall,https://www.google.com/search?q=%22Machine+Learning%22+Architect+Drift+Pitfall&start=10,html/q33b_p1.html,html/q33b_p2.html,19
